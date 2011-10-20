@@ -1,4 +1,10 @@
 
+## This is covered by the Creative Commons
+## BY - NC - SA
+## http://creativecommons.org/licenses/by-nc-sa/3.0/au/
+## Original Creator William Pemberton
+## Version 0.1 - Alpha PyMathCalc
+
 #Imports
 import math,sys,os
 
